@@ -1,0 +1,35 @@
+When we received our June SBS Skyline bill, we were a bit surprised.  Over six
+hundred dollars of it came from calls we never made.  But what's really
+interesting is the way that the Skyline people handled it.  In early June, we
+got a call telling us that their sophisticated equipment detected hackers
+trying to guess a code by scanning numerically.  They said our code would soon
+be discovered, so they were going to give us a new one, with two extra digits
+added.  They did this and that very day our old code was inactivated.  The
+illegal calls had occurred BEFORE that day, and we figure Skyline must have
+known this.  Maybe they thought that 2600, in our corporate clumsiness, would
+pay a huge bill without investigation.  Many big companies would.  Gotta give
+them credit for trying.
+When we called up about it, they didn't want to handleit over the phone!  "Send
+the bill through the mail," they said.  Mark the calls you made and we'll
+deduct the rest."  Why are phone companies so afraid to do things over the
+phone?
+As long as Skyline decided to give the "perpetrators" some extra time before
+the investigation starts,  we figure we might as well lend a hand too.  Our old
+code was 880099.  We loved that code and are very upset at losing it.  Our new
+eight digit one is very difficult to remember and nowhere near as fun.
+And one last note about those new eight digit numbers.  Phone phreaks have
+ALREADY figured out a way around them.  If you dial the first six digits of an
+eight digit code, then the ten digit phone number and hit a # key, you'll get
+your tone back!  That means there are only a hundred possible codes since there
+are only two more digits to figure out  and one of them DEFINITELY works!  If
+you enter six digits that are not part of an eight digit code, and then a ten
+digit phone number, you'll get an error message immediately or that fake
+carrier tone Skyline loves to send out.  That tone, incidentally, is for you
+hackers with Apples and Commodores that scan all night long looking for the
+code that will get you through to a number that responds with a carrier tone.
+In the morning, you see how many carrier detects you got and which codes got
+them for you.  Skyline's idea is that if EVERY invalid code gives a hacker a
+carrier tone, there is no way for a computer to separate the good codes from
+the bad ones.  Come on!  How about setting your computer to dial a NON-carrier
+and telling it to print out only those codes that DIDN'T get a carrier tone?
+And there are probably a hundred more ways.  Big corporations can be SO much
